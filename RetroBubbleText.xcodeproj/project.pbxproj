@@ -13,6 +13,8 @@
 		23A0F6522799711B0044662A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A0F6402799711A0044662A /* ContentView.swift */; };
 		23A0F6532799711B0044662A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23A0F6412799711B0044662A /* Assets.xcassets */; };
 		23A0F6542799711B0044662A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23A0F6412799711B0044662A /* Assets.xcassets */; };
+		23A0F65E2799712D0044662A /* RetroBubbleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A0F65D2799712D0044662A /* RetroBubbleText.swift */; };
+		23A0F65F2799712D0044662A /* RetroBubbleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A0F65D2799712D0044662A /* RetroBubbleText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,7 @@
 		23A0F6462799711B0044662A /* RetroBubbleText.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetroBubbleText.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A0F64C2799711B0044662A /* RetroBubbleText.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetroBubbleText.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A0F64E2799711B0044662A /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		23A0F65D2799712D0044662A /* RetroBubbleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetroBubbleText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +59,7 @@
 			children = (
 				23A0F63F2799711A0044662A /* RetroBubbleTextApp.swift */,
 				23A0F6402799711A0044662A /* ContentView.swift */,
+				23A0F65D2799712D0044662A /* RetroBubbleText.swift */,
 				23A0F6412799711B0044662A /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -178,6 +182,7 @@
 			files = (
 				23A0F6512799711B0044662A /* ContentView.swift in Sources */,
 				23A0F64F2799711B0044662A /* RetroBubbleTextApp.swift in Sources */,
+				23A0F65E2799712D0044662A /* RetroBubbleText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,6 +192,7 @@
 			files = (
 				23A0F6522799711B0044662A /* ContentView.swift in Sources */,
 				23A0F6502799711B0044662A /* RetroBubbleTextApp.swift in Sources */,
+				23A0F65F2799712D0044662A /* RetroBubbleText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
