@@ -12,7 +12,7 @@ struct ContentView: View {
         VStack {
             RetroBubbleText(text: "Wizard", size: 62, style: .small)
             
-            RetroBubbleText(text: "Retrogram", size: 62, style: .large)
+            RetroBubbleText(text: "Retrogram", size: 180, style: .large)
             
             RetroBubbleText(text: "Mastermind", size: 50, style: .tiny)
         }

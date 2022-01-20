@@ -77,7 +77,7 @@ struct RetroBubbleText: View {
             StrokeTextLabel(text: text, fill: .white, stroke: UIColor(named: "Yellow")!, size: size, strokeWidth: style.outerWidth)
             StrokeTextLabel(text: text, fill: .white, stroke: UIColor(named: "Background")!, size: size, strokeWidth: style.innerWidth)
             StrokeTextLabel(text: text, fill: UIColor(named: "Red")!, stroke: UIColor(named: "Background")!, size: size, strokeWidth: 0)
-                .padding([.top, .bottom], 10)
+                .padding([.top, .bottom], 14)
         }
         .fixedSize(horizontal: false, vertical: true)
     }
