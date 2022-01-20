@@ -1,4 +1,4 @@
-[Retro Bubble Text Example](https://github.com/TwoLivesLeft/RetroBubbleText/blob/main/Example.png)
+![Retro Bubble Text Example](https://github.com/TwoLivesLeft/RetroBubbleText/blob/main/Example.png)
 
 #  Retro Bubble Text
 
