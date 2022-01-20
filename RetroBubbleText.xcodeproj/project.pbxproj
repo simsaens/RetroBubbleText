@@ -25,6 +25,7 @@
 		23A0F64C2799711B0044662A /* RetroBubbleText.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetroBubbleText.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A0F64E2799711B0044662A /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		23A0F65D2799712D0044662A /* RetroBubbleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetroBubbleText.swift; sourceTree = "<group>"; };
+		23A0F660279973D30044662A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +49,7 @@
 		23A0F6392799711A0044662A = {
 			isa = PBXGroup;
 			children = (
+				23A0F660279973D30044662A /* README.md */,
 				23A0F63E2799711A0044662A /* Shared */,
 				23A0F64D2799711B0044662A /* macOS */,
 				23A0F6472799711B0044662A /* Products */,
